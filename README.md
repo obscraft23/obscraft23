@@ -7,7 +7,6 @@
 ## :video_game: Who am I?
 
 - **Name:** **obscraft23**
-- **Country:** Japan :japan:
 - **Language:** Japanese/English
 
 ## :envelope: Contact
