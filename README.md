@@ -11,5 +11,4 @@
 
 ## :envelope: Contact
 [![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](obscraft23@gmail.com)
-[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/obscraft23)
 ![](https://dcbadge.vercel.app/api/shield/1065692459021107211?style=flat-square)
